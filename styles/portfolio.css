@@ -88,6 +88,9 @@ nav a{
     max-width: 1140px;
     margin: 0 auto;
  }
+ main section{
+    margin: 130px;
+ }
 .about{
     padding: 130px;
     border-radius: 10px;
@@ -101,3 +104,13 @@ nav a{
 .about-info{
     text-align: center;
 }
+/*skill related stlyes*/
+#what-i-do-description{
+    padding: 30px 150px;
+}
+.skills-container{
+    display: flex}
+    .skill{padding: 30px;
+        background: #FFF;
+    box-shadow: 0px 6px 20px 0px;
+    }
